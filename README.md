@@ -1,11 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+
+- :computer: Embedded Systems Firmware Engineer...
+- Dealing in the Internet of Things :artificial_satellite:...
+- Enthusiast of Embedded Linux :penguin:...
+
+
+## Open Source Projects
+Repository Overview
+
+|Projects    |Links|
+|:-----------|:-------------|
+|STM32_BMP280_Interfacing|[STM32_BMP280_Interfacing](https://github.com/suffiyanshaikh/STM32_BMP280_Interfacing)|
+|ESP32_Battery_Monitoring_Gateway|[ESP32_Battery_Monitoring_Gateway](https://github.com/suffiyanshaikh/ESP32_Battery_Monitoring_Gateway.git)|
+|ENS210_mbed_os_Driver|[ENS210_mbed_os_Driver](https://github.com/suffiyanshaikh/ENS210_mbed_os_Driver.git)|
+
+
 
 <!--
 **suffiyanshaikh/suffiyanshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- :computer:	 Embedded Systems Firmware Engineer...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
