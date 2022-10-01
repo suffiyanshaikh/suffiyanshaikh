@@ -1,10 +1,11 @@
-# Hello World 🌏
+# <h2 align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+🌏;Here's+$uffiy@n+$h@ikh..;Nice+to+meet+you!&center=false&size=30">
+</h2>
 
 - 💻 Embedded Systems Firmware Engineer...
 - Dealing in the Internet of Things 🛰️...
 - Enthusiast of Embedded Linux 🐧...
 - Willing to work in the open source industry :atom:...
-
 
 
 Follow us at [spacetronics 🚀](https://www.instagram.com/spacetronics/?utm_source=ig_embed&ig_mid=Xa0hPwABAAEL-Spz_Xp0rviImpPD&hl=en)
@@ -22,6 +23,7 @@ Repository Overview
 # Connect Us 📡
 
 [![image](https://user-images.githubusercontent.com/42150715/192160083-03186e43-848a-4144-9336-51a34516844e.png)](https://www.linkedin.com/in/suffiyan-shaikh-113287121)
+
 
 
 
