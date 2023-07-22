@@ -3,14 +3,14 @@
 </h2>
 
 - 💻 Embedded Systems Firmware Engineer...
-- Dealing in the Internet of Things 🛰️...
+- Dealing with the Internet of Things 🛰️...
 - Enthusiast of Embedded Linux 🐧...
 - Willing to work in the open source industry :atom:...
 
 
 Follow us at [spacetronics 🚀](https://www.instagram.com/spacetronics/?utm_source=ig_embed&ig_mid=Xa0hPwABAAEL-Spz_Xp0rviImpPD&hl=en)
 
-## Open Source Projects
+## Maker Projects
 Repository Overview
 
 |Projects    |Links|
